@@ -14,9 +14,9 @@ Installation:
    Install Anaconda AI Navigator.
    On the 'models' tab explore available models and download one as per memory allocated. This code was tested on TinyLlama-1.1B-Chat-v1.0 model for text generation.
 2. Clone the Repository:
-   git clone https://github.com/SoumyaGupta06/LLM-API-Integration.git
-   cd LLM-API-Integration
-3. Install Dependencies: Ensure Python and requests library are installed.
+   git clone [https://github.com/SoumyaGupta06/LLM-API-Integration.git](https://github.com/SoumyaGupta06/LLM-API-Integration.git). 
+   cd LLM-API-Integration.
+4. Install Dependencies: Ensure Python and requests library are installed. 
    pip install requests
 
 Usage:
@@ -34,7 +34,8 @@ Model Response:
   "response": "The weather in Delhi is sunny and warm."
 }
 
-Future Enhancements
+Future Enhancements:
+
 1. Add support for advanced LLM features.
 2. Integrate with a web UI or application for improved accessibility and usage.
 
